@@ -1,0 +1,10 @@
+<html>
+
+	<head>
+		<title> LIFE IN THE FIRST LANE</title>
+	</head>
+
+	<body>
+		<p> Who on Earth is living here and has never been the  best thing that happened to Me!</p>
+	</body>
+</html>
